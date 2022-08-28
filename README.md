@@ -89,4 +89,3 @@ The following is my **Personal User Manual**. Whether you've worked with me or n
 2) *Bossy managers.* There's a difference between being bossy and being a leader. Being a leader means you listen to the team, support your team and make sure they succeed. They should be able to count on you. On the other hand, bossy managers underestimates you, make you feel undervalued, try to run you down and generally suck the spirit out of a team. 
 
 3) People who *complain all the time.* I find it hard to be around complainers because they always find something to complain about. That's wasted energy and hurts anyone around.
----
