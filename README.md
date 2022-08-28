@@ -5,6 +5,7 @@ My name is [**Mahmoud**](https://www.howtopronounce.com/mahmoud). If you read th
 The following is my **Personal User Manual**. Whether you've worked with me or not, if you think this document could be improved, feel free to open an [issue](https://github.com/moudhamam/moudhamam.github.io/issues/new). I'm happy to hear feedback. 👨🏼‍💻
 
 ##
+
 #### What are three honest, unfiltered things about you? What should people know about you and how to get the best from you? 
 1) *I'm a deep thinker and always doubt assumptions.* You should be prepared for that because I'll probably ask a question or make a comment that will make you stop and think about it. So, think and bring your wits to the discussion.
   
