@@ -1,6 +1,8 @@
 Hello! 👋
 
-My name is [**Mahmoud**](https://www.howtopronounce.com/mahmoud). If you read this, I likely sent you the link so you can learn more about working with me. Or maybe you just came across this page. Welcome! :)
+<img src="https://avatars.githubusercontent.com/u/70662685?v=4" alt="Hello, I'm Mahmoud!" width="200"/>
+
+My name is [**Mahmoud**](https://www.howtopronounce.com/mahmoud) and I'm a Product Manager. If you read this, I likely sent you the link so you can learn more about working with me. Or maybe you just came across this page. Welcome! :)
 
 The following is my **Personal User Manual**. Whether you've worked with me or not, if you think this document could be improved, feel free to open an [issue](https://github.com/moudhamam/moudhamam.github.io/issues/new). I'm happy to hear feedback. 👨🏼‍💻
 
