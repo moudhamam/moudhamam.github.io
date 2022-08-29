@@ -97,25 +97,25 @@ The following is my **Personal User Manual**. Whether you've worked with me or n
 ---
 
 #### Conditions I like to work in
-1) I like having my own desk space. Preferably with an adjustable standing desk and a high-quality ergonomic chair.
+1) I like having *my own desk space.* Preferably with an adjustable standing desk and a high-quality ergonomic chair.
 
-2) Well-lit rooms. The more sunlight, the better.
+2) *Well-lit rooms.* The more sunlight, the better.
 
-3) Well-ventilated and cool spaces. Not necessarily air conditioned. Just enough cooling to make it comfortable to work.
+3) *Well-ventilated and cool spaces.* Not necessarily air conditioned. Just enough cooling to make it comfortable to work.
 
 #### Times / hours I like to work
 1) My productive times can vary day by day.
 
-2) My mornings are usually dedicated to deep work, because that's when my mental focus is at its peak.
+2) My mornings are usually dedicated to *deep work*, because that's when my mental focus is at its peak.
 
 #### Things I struggle with
-1) Micromanagement. It can lead to unnecessary conflict, lost trust and unnecessary anxiety.
+1) *Micromanagement.* It can lead to unnecessary conflict, lost trust and unnecessary anxiety.
 
-2) Time limitations. Having only 24 hours in a day is never enough, so I prioritize ruthlessly.
+2) *Time limitations.* Having only 24 hours in a day is never enough, so I prioritize ruthlessly.
 
-3) Clear vision. It's hard for me to get engaged if I don't understand the bigger picture.
+3) *Clear vision.* It's hard for me to get engaged if I don't understand the bigger picture.
 
 #### Things I love
-1) Learning things. Learning makes me feel alive and I really enjoy it.
+1) *Learning things.* Learning makes me feel alive and I really enjoy it.
 
-2 )Music. It lifts me up, inspires me and enhance my inner state.
+2) *Music.* It lifts me up, inspires me and enhance my inner state.
