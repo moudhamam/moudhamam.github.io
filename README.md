@@ -4,7 +4,7 @@ Hello! 👋
 
 My name is [**Mahmoud**](https://www.howtopronounce.com/mahmoud) and I'm a Product Manager. If you read this, I likely sent you the link so you can learn more about working with me. Or maybe you just came across this page. Welcome! :)
 
-The following is my **Personal User Manual**. Whether you've worked with me or not, if you think this document could be improved, feel free to open an [issue](https://github.com/moudhamam/moudhamam.github.io/issues/new). I'm happy to hear feedback. 👨🏼‍💻
+The following is my **Personal User Manual**. It will give you a general idea about how I work and what you can expect from me. Whether you've worked with me or not, if you think this document could be improved, feel free to open an [issue](https://github.com/moudhamam/moudhamam.github.io/issues/new). I'm happy to hear feedback. 👨🏼‍💻
 
 <sub>*P.S.: You may want to read [The Pitch/Anti-Pitch for Personal User Manuals](https://betterprogramming.pub/personal-user-manuals-the-good-the-bad-and-the-template-7b80db5044ea) first.*</sub>
 
