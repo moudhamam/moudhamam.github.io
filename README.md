@@ -113,7 +113,7 @@ The following is my **Personal User Manual**. Whether you've worked with me or n
 
 2) *Time limitations.* Having only 24 hours in a day is never enough, so I prioritize ruthlessly.
 
-3) *Clear vision.* It's hard for me to get engaged if I don't understand the bigger picture.
+3) *Vague vision.* It's hard for me to get engaged if I don't understand the bigger picture.
 
 #### Things I love
 1) *Learning things.* Learning makes me feel alive and I really enjoy it.
