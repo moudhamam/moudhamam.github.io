@@ -129,12 +129,29 @@ As you create your own user manual, you can reflect and become self-aware, while
 
 #### Strengths
 1) I analyze everything I come across, from research data to people's behavior. It makes me see patterns and connections others might miss.
+
 2) It is easy for me to come up with creative, counterintuitive ideas that most people would not have thought of. Of course, not all of these ideas are going to be feasible.
+
 3) I am driven by a passion for learning and an intense curiosity about everything around me. Therefore, I tend to be receptive to novel ideas and ways of doing things – as long as those ideas are supported by sound reasoning.
+
 4) I'm all about the truth. Understanding what's really going on under the surface of things is more relevant to me than taking comfort in ideology.
 
 #### Weaknesses
 1) I can get lost in my own train of thought, even when I'm with other people. It can make people feel like I'm disconnected.
+
 2) In my opinion, rationality is the key to creating a better and happier world. Occasionally, I underestimate irrational values such as emotion, compassion, etiquette, and tradition. It can make me seem insensitive or unkind, even though my intentions are sincere.
+
 3) I can’t help but imagine how things could be better than they already are. My curiosity keeps me on the lookout for new ways to solve problems, learn about various topics, and learn novel ways to approach things. Taking it too far might seem like I'm constantly reinventing the wheel.
+
 4) As much as I want to get things done, my quest for perfection sometimes gets in the way. There are times when I get lost in analyzing various options to reach the best decision.
+
+---
+
+#### Fun Facts
+1) When I was a kid, my favorite toys were Meccano and Lego. I spent all my time building stuff with them. I was expected to become an architect or an engineer in the future.
+
+2) My dream was to be a car designer. I actually won third place in a competition organized by Alfa Romeo when I was 15. I still have some sketches from then.
+
+3) I won a business school chess tournament in Paris.
+
+---
