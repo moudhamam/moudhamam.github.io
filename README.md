@@ -123,4 +123,18 @@ As you create your own user manual, you can reflect and become self-aware, while
 #### Things I love
 1) *Learning things.* Learning makes me feel alive and I really enjoy it.
 
-2) *Music.* It lifts me up, inspires me and enhance my inner state.
+2) *Music.* It lifts me up, inspires me and enhances my inner state.
+
+---
+
+#### Strengths
+1) I analyze everything I come across, from research data to people's behavior. It makes me see patterns and connections others might miss.
+2) It is easy for me to come up with creative, counterintuitive ideas that most people would not have thought of. Of course, not all of these ideas are going to be feasible.
+3) I am driven by a passion for learning and an intense curiosity about everything around me. Therefore, I tend to be receptive to novel ideas and ways of doing things – as long as those ideas are supported by sound reasoning.
+4) I'm all about the truth. Understanding what's really going on under the surface of things is more relevant to me than taking comfort in ideology.
+
+#### Weaknesses
+1) I can get lost in my own train of thought, even when I'm with other people. It can make people feel like I'm disconnected.
+2) In my opinion, rationality is the key to creating a better and happier world. Occasionally, I underestimate irrational values such as emotion, compassion, etiquette, and tradition. It can make me seem insensitive or unkind, even though my intentions are sincere.
+3) I can’t help but imagine how things could be better than they already are. My curiosity keeps me on the lookout for new ways to solve problems, learn about various topics, and learn novel ways to approach things. Taking it too far might seem like I'm constantly reinventing the wheel.
+4) As much as I want to get things done, my quest for perfection sometimes gets in the way. There are times when I get lost in analyzing various options to reach the best decision.
