@@ -148,7 +148,7 @@ As you create your own user manual, you can reflect and become self-aware, while
 ---
 
 #### Fun Facts
-1) When I was a kid, my favorite toys were Meccano and Lego. I spent all my time building stuff with them. I was expected to become an architect or an engineer in the future.
+1) When I was a kid, my favorite toys were [Meccano](https://www.meccano.com/) and [Lego](https://www.lego.com/). I spent all my time building stuff with them. I was expected to become an architect or an engineer in the future.
 
 2) My dream was to be a car designer. I actually won third place in a competition organized by Alfa Romeo when I was 15. I still have some sketches from then.
 
