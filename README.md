@@ -154,4 +154,6 @@ As you create your own user manual, you can reflect and become self-aware, while
 
 3) I won a business school chess tournament in Paris.
 
+4) Check out my Spotify Page: [**Moud**](https://open.spotify.com/artist/5Rr689Y14owVoBrFDqXxyh?si=XfXEHKlTTU6mstaPSDKFmg)
+
 ---
