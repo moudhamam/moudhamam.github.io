@@ -21,7 +21,7 @@ As you create your own user manual, you can reflect and become self-aware, while
 * It is more enjoyable and effective to work in a team where everyone gives their best than to just do what is expected of them. This doesn't mean you need to work every second of your life, or never have a day off. It is about attitude. This is why I strive to hold everyone, including myself, to the same standard.
 
 ---
-
+### Getting to know me
 #### What are three honest, unfiltered things about you? What should people know about you and how to get the best from you? 
 1) *I'm a deep thinker and always doubt assumptions.* You should be prepared for that because I'll probably ask a question or make a comment that will make you stop and think about it. So, think and bring your wits to the discussion.
   
