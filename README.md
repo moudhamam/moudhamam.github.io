@@ -19,6 +19,7 @@ As you create your own user manual, you can reflect and become self-aware, while
 * Since no one's malicious by nature, I always assume positive intentions until proven otherwise.
 * We're all better off when we care about one another. So I try to take care of everybody in my sphere of influence.
 * It is more enjoyable and effective to work in a team where everyone gives their best than to just do what is expected of them. This doesn't mean you need to work every second of your life, or never have a day off. It is about attitude. This is why I strive to hold everyone, including myself, to the same standard.
+* It is more enjoyable and efficient to work when ideas are freely exchanged and feedback is obtained from other people. Transparency and candor both enhance the working environment.
 
 ---
 ### Getting to know me
