@@ -121,7 +121,7 @@ As you create your own user manual, you can reflect and become self-aware, while
 #### Times / hours I like to work
 1) My productive times can vary day by day.
 
-2) My mornings are usually dedicated to *deep work*, because that's when my mental focus is at its peak.
+2) My mornings are usually dedicated to [*deep work*](https://blog.doist.com/deep-work/), because that's when my mental focus is at its peak.
 
 #### Things I struggle with
 1) *Micromanagement.* It can lead to unnecessary conflict, lost trust and unnecessary anxiety.
