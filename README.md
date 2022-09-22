@@ -20,6 +20,8 @@ As you create your own user manual, you can reflect and become self-aware, while
 * We're all better off when we care about one another. So I try to take care of everybody in my sphere of influence.
 * It is more enjoyable and effective to work in a team where everyone gives their best than to just do what is expected of them. This doesn't mean you need to work every second of your life, or never have a day off. It is about attitude. This is why I strive to hold everyone, including myself, to the same standard.
 * It is more enjoyable and efficient to work when ideas are freely exchanged and feedback is obtained from other people. Transparency and candor both enhance the working environment.
+* It is essential to strike a work-life balance, as it gives you the mental energy to accomplish everything. If you don't set priorities and stay focused, you lose track of everything. I love my job, but I don't want to become an obsessive workaholic. This is why I believe balance is so critical, so I can find time to enjoy myself.
+* Since there can be many ways to do anything, I don't believe that there is one right way to do things. That is why I believe that what works for others might not work for me, and vice versa. I like to try new things and see what works for me.
 
 ---
 ### Getting to know me
