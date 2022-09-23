@@ -165,3 +165,4 @@ As you create your own user manual, you can reflect and become self-aware, while
 3) I won a business school chess tournament in Paris.
 
 ---
+###### <sub>*last updated "2022-09-15 17:57:12"*</sub>
