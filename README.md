@@ -111,6 +111,18 @@ As you create your own user manual, you can reflect and become self-aware, while
 
 ---
 
+#### What motivates me:
+1) *Learning*. At the end of the day, I’d like to be better than I am. I want to always grow and become a better person.
+
+2) *Making a difference*. I’ve always had the goal to make a positive impact in the lives of others.
+
+#### What demotivates me:
+1) *Repeating the same mistake*. It makes me feel stagnant. I like being a progressive person. My preference is to try something different rather than repeat something that doesn't work.
+
+2) A culture where people prefer to lay blame on one another rather than finding the root of the problem. I prefer to look for solutions rather than point fingers and blame others.
+
+---
+
 #### Conditions I like to work in
 1) I like having *my own desk space.* Preferably with an adjustable standing desk and a high-quality ergonomic chair.
 
@@ -165,4 +177,4 @@ As you create your own user manual, you can reflect and become self-aware, while
 3) I won a business school chess tournament in Paris.
 
 ---
-###### <sub>*last updated "2022-09-15 17:57:12"*</sub>
+###### <sub>*last updated "2022-10-06 17:31:31"*</sub>
