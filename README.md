@@ -149,6 +149,13 @@ As you create your own user manual, you can reflect and become self-aware, while
 
 ---
 
+#### My Blind Spots
+1) Compared to the average person, I am less risk-averse. It's not uncommon for me to take risks and to think outside the box. If you feel like I'm over-confident or too optimistic, please let me know!
+
+2) Because I rarely have time to spare, I tend to cut to the chase often. Therefore, it results in a let's-get-things-done attitude, a direct and assertive tone that may frustrate or offend someone unfamiliar with it. If this happens, don't take it personally!
+
+---
+
 #### Strengths
 1) I analyze everything I come across, from research data to people's behavior. It makes me see patterns and connections others might miss.
 
