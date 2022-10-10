@@ -28,7 +28,7 @@ As you create your own user manual, you can reflect and become self-aware, while
 #### What are three honest, unfiltered things about you? What should people know about you and how to get the best from you? 
 1) *I'm a deep thinker and always doubt assumptions.* You should be prepared for that because I'll probably ask a question or make a comment that will make you stop and think about it. So, think and bring your wits to the discussion.
   
-2) *I'm a strong believer in the art of listening.* I'm an observer of human nature and the world and will speak honestly about what I see. But I'm not always right and not always able to predict the future. So, don't hesitate to challenge me with your view of reality.
+2) *I'm a strong believer in the art of listening.* I’m an observer of human nature and it intrigues me when I can pick up on the subtle ways that people communicate. Active listening is a skill that everyone should master, whether in a personal or professional level.
   
 3) *There's a difference between a "persona" and an "authentic persona."* The former is an alter ego; the latter is your true self. If I don't know you well, I might fall into the former trap. So, when I do know you, I do everything I can to get to the real you.
 
