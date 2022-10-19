@@ -147,6 +147,11 @@ As you create your own user manual, you can reflect and become self-aware, while
 
 2) *Music.* It lifts me up, inspires me and enhances my inner state.
 
+#### When stressed
+1) *I am less talkative.* Because silence helps me breathe slowly and think clearly, I tend to prefer quietness when I'm stressed.
+
+2) *I tend to lose appetite.* Basically, my brain shuts down my stomach so it can conserve energy for resolving the stress issue.
+
 ---
 
 #### My Blind Spots
