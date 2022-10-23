@@ -189,4 +189,11 @@ As you create your own user manual, you can reflect and become self-aware, while
 3) I won a business school chess tournament in Paris.
 
 ---
-###### <sub>*last updated "2022-10-19"*</sub>
+
+#### Causes I support
+1) *Helping the poor.* I believe that helping others in need is the greatest act of generosity. I feel compelled to support those who lack the same opportunities as I do.
+
+2) *Social equality.* People should have equal opportunity to succeed, regardless of their background. That’s how society can function optimally.
+
+---
+###### <sub>*last updated "2022-10-23"*</sub>
