@@ -32,13 +32,6 @@ As you create your own user manual, you can reflect and become self-aware, while
   
 3) *There's a difference between a "persona" and an "authentic persona."* The former is an alter ego; the latter is your true self. If I don't know you well, I might fall into the former trap. So, when I do know you, I do everything I can to get to the real you.
 
-#### What drives you nuts? Irritates you?
-1) *Unfounded assumptions.* I really dislike when people make snap judgments without knowing all the facts. Data and facts are what I live by, and I refuse to go along with opinions without evidence.
-  
-2) *Lack of respect.* I don't accept being treated with disrespect, especially from someone of higher authority. And I'll tell you if it happens.
-  
-3) *Ignorance.* I have very little tolerance for ignorance and will point it out when I see it.
-
 #### How can people earn an extra gold star with you?
 1) *Be polite, respectful, and kind.* These are values that we should all live by.
 
@@ -133,7 +126,7 @@ As you create your own user manual, you can reflect and become self-aware, while
 #### Times / hours I like to work
 1) My productive times can vary day by day.
 
-2) My mornings are usually dedicated to [*deep work*](https://blog.doist.com/deep-work/), because that's when my mental focus is at its peak.
+2) Generally, I use purposeful planning to block out time in order to accomplish tasks.
 
 #### Things I struggle with
 1) *Micromanagement.* It can lead to unnecessary conflict, lost trust and unnecessary anxiety.
@@ -196,4 +189,4 @@ As you create your own user manual, you can reflect and become self-aware, while
 2) *Social equality.* People should have equal opportunity to succeed, regardless of their background. That’s how society can function optimally.
 
 ---
-###### <sub>*last updated "2022-11-01"*</sub>
+###### <sub>*last updated "2022-11-23"*</sub>
