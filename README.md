@@ -74,13 +74,6 @@ As you create your own user manual, you can reflect and become self-aware, while
 
 3) *Email.* If you can't meet or call, then send me an email rather than starting a text chat.
 
-#### What are three things you'd want your team to say about you at your funeral (if you were hit by a car tomorrow)? 
-1) We loved him.
-
-2) He had made a positive impact on us.
-
-3) He was one of a kind, honest, reliable and fun to be around.
-
 #### When you are at your best, what are you doing? I am at my best when: 
 1) *Inspired.* There are those moments when ideas flow clearly in your mind like a river and you feel like you're connecting with a higher force that empowers you. I do start writing down what goes in my head in order to not lose any "flow" moments like that.
 
@@ -189,4 +182,4 @@ As you create your own user manual, you can reflect and become self-aware, while
 2) *Social equality.* People should have equal opportunity to succeed, regardless of their background. That’s how society can function optimally.
 
 ---
-###### <sub>*last updated "2022-11-23"*</sub>
+###### <sub>*last updated "2022-12-11"*</sub>
