@@ -61,11 +61,11 @@ As you create your own user manual, you can reflect and become self-aware, while
 3) *Email.* Not my favorite way of communication, but I think it's the most efficient way to communicate long-form ideas or important information.
 
 #### What are the worst ways to communicate with you? I don't respond well to: 
-1) *Bad microphones.* When people use some crappy mics that distort your voice and make it hard to understand. If you don't have a clear mic, I'll tell you that.
+1) *Passive-aggressive emails.* They seem polite, but they actually have malicious meaning behind them. They don't encourage me to interact with you in a positive manner.
 
-2) *Passive-aggressive emails.* They seem polite, but they actually have malicious meaning behind them. They don't encourage me to interact with you in a positive manner.
+2) *Yelling.* I'd rather just talk to people who really want to talk.
 
-3) *Yelling.* I'd rather just talk to people who really want to talk.
+3) *Inappropriate, rude language.* It's the same as yelling. I don't respond well to it.
 
 #### What are the best ways to give you hard news or critical feedback? 
 1) *Face-to-Face or video meeting.* I do respond well to feedback and need to see your face when you deliver hard news/critical feedback to me.
