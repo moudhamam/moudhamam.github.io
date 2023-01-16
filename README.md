@@ -1,6 +1,6 @@
 Hello! 👋
 
-<img align="right" width="130" height="130" src="https://media-exp1.licdn.com/dms/image/D5603AQHGb22vg_4Qhg/profile-displayphoto-shrink_400_400/0/1666508772024?e=1672876800&v=beta&t=KpJ7Kn1wpK9gNxTj8rpM3dt9ztAUjhNhBCRxrDgw7c4" alt="Hello, I'm Mahmoud!"/>
+<img align="right" width="130" height="130" src="https://avatars.githubusercontent.com/u/70662685?v=4" alt="Hello, I'm Mahmoud!"/>
 
 My name is [**Mahmoud**](https://www.howtopronounce.com/mahmoud) and I'm a Product Manager. You can find my professional history on [LinkedIn](https://www.linkedin.com/in/mahmoudhamam). If you read this, I likely sent you the link so you can learn more about working with me. Or maybe you just came across this page. Welcome! :)
 
@@ -180,6 +180,3 @@ As you create your own user manual, you can reflect and become self-aware, while
 1) *Helping the poor.* I believe that helping others in need is the greatest act of generosity. I feel compelled to support those who lack the same opportunities as I do.
 
 2) *Social equality.* People should have equal opportunity to succeed, regardless of their background. That’s how society can function optimally.
-
----
-###### <sub>*last updated "2022-12-11"*</sub>
