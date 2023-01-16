@@ -172,7 +172,7 @@ As you create your own user manual, you can reflect and become self-aware, while
 
 2) My dream was to be a car designer. I actually won third place in a competition organized by Alfa Romeo when I was 15. I still have some sketches from then.
 
-3) I won a business school chess tournament in Paris.
+3) I won a chess tournament in Paris for European business schools.
 
 ---
 
