@@ -49,9 +49,9 @@ As you create your own user manual, you can reflect and become self-aware, while
 #### What are three things that make you feel good (bring you back to the center) when stressed? 
 1) *Appreciation gestures.* I really love it when I'm appreciated. If you find that I'm adding value to the table, say it. I'll appreciate it deeply and it'll work a miracle on me.
  
-2) *Spending time outdoors* in the sun, soaking up the fresh air. It's that feeling of freshness and vigor that I crave. I feel less stressed when I take the time to do that.
+2) *Doing something creative.* Drawing, painting or composing music are creative pursuits that release tension in my brain. The act of creating something, regardless of the end result, can provide a sense of accomplishment and release endorphins that can increase happiness and reduce stress.
 
-3) *Chilling out* with friends. Going out and getting some laughs is the best antidote to stress.
+3) *Chilling out with friends.* Going out and getting some laughs is the best antidote to stress.
 
 #### What are the best ways to communicate with you?
 1) *Face-to-face.* It's the best way to connect with people. Maybe not the most feasible though with busy calendars and remote team members.
