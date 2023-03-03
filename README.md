@@ -89,7 +89,7 @@ As you create your own user manual, you can reflect and become self-aware, while
 3) I value *integrity*. I strive to be a person of integrity, which means honesty, fairness, and respect.
 
 #### Do you have any pet peeves?
-1) When we have an important discussion or an important meeting and you *act consistently inattentive*, I take that as a sign of disrespect and unprofessionalism. It pisses me off and I'll call you out on it.
+1) *Vague expressions*, especially when talking about some technical problems or topics like code architecture. Unless you are specific with your words, I'm going to have difficulty figuring out what exactly you mean.
 
 2) *Bossy managers.* There's a difference between being bossy and being a leader. Being a leader means you listen to the team, support your team and make sure they succeed. They should be able to count on you. On the other hand, bossy managers underestimate you, make you feel undervalued, try to run you down and generally suck the spirit out of a team. 
 
