@@ -6,6 +6,8 @@ My name is [**Mahmoud**](https://www.howtopronounce.com/mahmoud) and I'm a Produ
 
 The following is my **Personal User Manual**. It will give you a general idea about how I work and what you can expect from me. Whether you've worked with me or not, if you think this document could be improved, feel free to open an [issue](https://github.com/moudhamam/moudhamam.github.io/issues/new). I'm happy to hear feedback. 👨🏼‍💻
 
+The goal of a user guide is to set blindingly clear expectations on how to collaborate without extra second guessing. My hope is that this will help us get to know each other faster, work better and have a stronger relationship.
+
 > **Why Personal User Manuals?**
 Dynamic products come with manuals so people can get the most out of them. It might not be needed, but it's more likely to help.
 People are so much more dynamic than anything!
