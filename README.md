@@ -1,6 +1,6 @@
 Hello! 👋
 
-<img align="right" width="190" height="190" src="https://avatars.githubusercontent.com/u/70662685?v=4" alt="Hello, I'm Mahmoud!"/>
+<img align="right" width="200" height="200" src="https://avatars.githubusercontent.com/u/70662685?v=4" alt="Hello, I'm Mahmoud!"/>
 
 My name is [**Mahmoud**](https://www.howtopronounce.com/mahmoud) and I'm a Product Manager. You can find my professional history on [LinkedIn](https://www.linkedin.com/in/mahmoudhamam). Regardless of how you got here, I'm delighted you've taken the time to learn a bit about me. Welcome! :)
 
